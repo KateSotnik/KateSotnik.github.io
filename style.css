@@ -38,7 +38,6 @@ h4 {
   min-height: 100%;
   overflow: hidden;
   justify-content: center;
-
 }
 
 .photo {
@@ -119,12 +118,15 @@ h4 {
 .profile-text {
   padding-top: 8px;
 }
+
 .company {
   padding-top: 6px;
 }
+
 .profession {
   font-size: 30px;
 }
+
 /* li::before {
   content: '';
   background-color: yellow;
