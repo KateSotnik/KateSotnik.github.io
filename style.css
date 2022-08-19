@@ -178,6 +178,7 @@ ul {
   .sidebar {
     width: 100%;
     align-items: flex-start;
+    padding-top: 20px;
   }
 
   .skills {
