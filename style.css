@@ -131,12 +131,15 @@ ul {
 }
 
 .company {
+  display: inline-block;
   padding-top: 6px;
+  background-color: rgba(110, 253, 253, 0.2);
 }
 
 .job-title {
   font-size: 30px;
 }
+
 .education-item {
   margin-bottom: 10px;
 }
