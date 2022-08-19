@@ -144,6 +144,7 @@ ul {
   margin-bottom: 10px;
 }
 
+
 @media screen and (max-width: 768px) {
   .container {
     flex-direction: column;
@@ -185,6 +186,7 @@ ul {
   .skills {
     width: 100%;
   }
+
   .skill-item {
     padding-top: 6px;
   }
@@ -231,12 +233,12 @@ ul {
   }
 
   ul {
-    font-size: 14px;
+    font-size: 15px;
     margin-bottom: 8px;
   }
 
   p {
-    font-size: 14px;
+    font-size: 15px;
   }
 
   .main-h {
